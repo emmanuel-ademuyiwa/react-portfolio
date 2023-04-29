@@ -33,18 +33,19 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            My goal is to always build applications that are scalable and
+            efficient under the hood while providing engaging, pixel-perfect
+            user experiences.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            Adaptable professional with close to 2 years of work experience and
+            proven knowledge of leadership, problem-solving, and workflow
+            prioritization.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            Aiming to leverage my abilities to successfully fill the Frontend
+            Developer role at your company using the tools and technologies
+            listed.
           </p>
         </div>
 
